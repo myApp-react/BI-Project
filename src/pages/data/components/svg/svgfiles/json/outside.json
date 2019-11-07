@@ -1,0 +1,3 @@
+{
+  "rect": [{"rect":{"x":"178.8","y":"151.4","width":"52.9","height":"21.2"},"doorNum":{"transform":"matrix(0.9808 0 0 1 184.604 160)","num":"W1001"},"doortext":{"transform":"matrix(0.9808 0 0 1 184.604 172.6988)","text":"智乐宝"}},{"rect":{"x":"125.9","y":"176.6","width":"105.8","height":"95.2"},"doorNum":{"transform":"matrix(0.9808 0 0 1 158.0833 221.008)","num":"W1002"},"doortext":{"transform":"matrix(0.9808 0 0 1 158.0833 233.7068)","text":"追风滑轮"}},{"rect":{"x":"235.9","y":"151.4","width":"105.8","height":"148.1"},"doorNum":{"transform":"matrix(0.9808 0 0 1 252.4604 222.2867)","num":"W1003"},"doortext":{"transform":"matrix(0.9808 0 0 1 252.4604 234.9854)","text":"赛尔之城游乐园"}}]
+}
